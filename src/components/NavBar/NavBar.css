@@ -1,0 +1,12 @@
+.navBar{
+    background-color: #bbb2a1;
+}
+.navBar .navLogo img{
+    height: 50px;
+    width: 100px;
+}
+.navitems{
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+}
